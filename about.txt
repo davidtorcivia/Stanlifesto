@@ -1,0 +1,5 @@
+Theme name: STANLIFESTO 
+Description: Built off the excellent themes Stanley and Manifesto.
+Author name: David Torcivia
+Author site: http://davidtorcivia.com
+License: http://opensource.org/licenses/MIT
