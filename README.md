@@ -17,7 +17,7 @@ This theme utilizes custom site data to implement slick article and page headers
 
 ####Custom Fields
 1. Go to the admin section of your site.
-2. Navigate to Extemd>Custom Fields
+2. Navigate to Extend>Custom Fields
 
 #####Featured Image (Post)
 1. Click "Create a new field" and enter the following data:
