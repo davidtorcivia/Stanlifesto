@@ -11,7 +11,13 @@ Currently used live [here](https://plebsonsecurity.com).
 page.php:
 ![](/screenshots/page.png)
 
-##Installation
+Article:
+![](/screenshots/article.png)
+
+Index:
+![](/screenshots/index.png)
+
+#Installation
 1. Download this theme.
 2. Upload the folder to your themes directory (*anchor installation directory*/themes)
 3. Go the admin section. Extend>Site Metadata. Scroll to the bottom. Select "Stanlifesto" from the theme selector dropdown.
@@ -41,6 +47,14 @@ This theme utilizes custom site data to implement slick article and page headers
   - Label: Featured Image Credit
 2. Click Save
 
+#####Featured Thumbnail (Post)
+1. Click "Create a new field" and enter the following data:
+  - Type: Post
+  - Field: image
+  - Unique Key: thumbnail
+  - Label: thumbnail
+2. Click Save
+
 #####Featured Image (Page)
 1. Click "Create a new field" and enter the following data:
   - Type: Page
@@ -57,7 +71,7 @@ This theme utilizes custom site data to implement slick article and page headers
   - Label: Featured Image Credit Page
 2. Click Save
 
-###Summary
+##Summary
 
 I am by no means a web developer and this is clearly hacked together. There's skeletons of both themes (and some other stuff) all over the place and it could use some serious cleaning. Let me know if you run into any bugs or issues, though I think everything you need to run this theme should be here and working.
 
