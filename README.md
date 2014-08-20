@@ -5,7 +5,12 @@ Theme for Anchor CMS. Built off [Stanley](https://github.com/mazzo-/Stanley-Anch
 
 Currently used live [here](https://plebsonsecurity.com).
 
-###Installation
+####Screenshots
+
+Page:
+![](/screenshots/page.png)
+
+##Installation
 1. Download this theme.
 2. Upload the folder to your themes directory (*anchor installation directory*/themes)
 3. Go the admin section. Extend>Site Metadata. Scroll to the bottom. Select "Stanlifesto" from the theme selector dropdown.
