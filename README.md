@@ -3,9 +3,6 @@ Stanlifesto
 
 Simple, elegant, responsive theme for Anchor CMS. Built off [Stanley](https://github.com/mazzo-/Stanley-Anchor-Theme) (Bootstrap) and [Manifesto](https://github.com/daveis/manifesto-anchor-theme) (Skeleton).
 
-####Demo:
-Currently used live [here](https://plebsonsecurity.com).
-
 ####Screenshots:
 
 page.php:
